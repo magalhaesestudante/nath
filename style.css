@@ -77,20 +77,29 @@ button:hover {
 
 #btn-anterior {
     left: 10px;
+    bottom: 13%;
+
 }
 
 #btn-proximo {
     right: 10px;
+    bottom: 13%;
+    
 }
 
 #btn-sim {
     right: 10px;
+    bottom: 13%;
+    
 
 }
 
 #btn-nao {
     left: 10px;
+    bottom: 13%;
+    
 }
+
 .next-page {
     display: none;
     height: 100vh;
